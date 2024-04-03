@@ -76,5 +76,9 @@ Problem Statement 2: Charts Requirement
 **7. Conclusion:**
    The Car Sales Dashboard provides valuable insights into the company's sales performance, enabling stakeholders to track key metrics, identify trends, and make informed decisions. By leveraging data visualization techniques, the dashboard enhances visibility and understanding of sales data, ultimately contributing to improved business outcomes and strategic planning.
 
+   
+![Car sales dashboard](https://github.com/Poojamaske24/Car-sales-dashboard---Tablaue/assets/153622264/323838cf-e96a-4847-991a-3087ff42d3d3)
+
+
 **Note:** Please find the attached tableau Dashboard for detailed visualizations and further analysis.
 
